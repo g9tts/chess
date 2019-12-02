@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574050517 source:c:\users\pichau\desktop\nova pasta (3)\dasdad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<SDL.h>
+
+1575250601 source:c:\users\pichau\desktop\nova pasta (3)\xadrez\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<SDL.h>
+	<SDL_image.h>
+
